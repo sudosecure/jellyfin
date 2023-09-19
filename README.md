@@ -16,12 +16,12 @@ Project consits of setting up a media server from your spare PC/Laptop You have 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://imgur.com/Udp8HgB"/>
+Jellyfin-Dashboard: <br/>
+<img src="https://imgur.com/Udp8HgB.png" height="80%" width="80%" alt="Jellyfin-Dashboard"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Jellyfin-Console:  <br/>
+<img src="https://imgur.com/q8aWK00.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
