@@ -17,7 +17,7 @@ Project consits of setting up a media server from your spare PC/Laptop You have 
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/a/7CfqSeu"/>
+<img src="https://imgur.com/Udp8HgB"/>
 <br />
 <br />
 Select the disk:  <br/>
